@@ -1,16 +1,7 @@
-# mywebsite
+# My Samples Website
 
-A new Flutter project.
+A site designed to showcase my flutter sample applications for potential clients.
 
-## Getting Started
+## Design
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project will act as a hub for my flutter samples applications. From the hub a user should be able to select a sample and launch it in their web client. Once launched, the sample should allow navigation back to the hub.
